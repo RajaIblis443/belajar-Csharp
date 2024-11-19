@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\obj\Debug\net6.0-windows\kalkulator_sederhana.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\obj\Debug\net6.0-windows\kalkulator sederhana.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\obj\Debug\net6.0-windows\kalkulator sederhana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\obj\Debug\net6.0-windows\kalkulator sederhana.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\obj\Debug\net6.0-windows\kalkulator sederhana.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\obj\Debug\net6.0-windows\kalkulator sederhana.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\bin\Debug\net6.0-windows\kalkulator sederhana.exe
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\bin\Debug\net6.0-windows\kalkulator sederhana.deps.json
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\bin\Debug\net6.0-windows\kalkulator sederhana.runtimeconfig.json
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\bin\Debug\net6.0-windows\kalkulator sederhana.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\bin\Debug\net6.0-windows\kalkulator sederhana.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\obj\Debug\net6.0-windows\kalkulator sederhana.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\obj\Debug\net6.0-windows\refint\kalkulator sederhana.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\obj\Debug\net6.0-windows\kalkulator sederhana.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\obj\Debug\net6.0-windows\kalkulator sederhana.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\kalkulator sederhana\obj\Debug\net6.0-windows\ref\kalkulator sederhana.dll
